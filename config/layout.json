@@ -169,8 +169,8 @@
       ],
       "variant": "default",
       "bgColor": "#cce5f5",
-      "mailgunApiKey": "0624928d337271fc3de5d8d332bd4753-667818f5-991fbd8d",
-      "mailgunDomain": "mg.nxtasq.com",
+      "mailgunApiKey": "",
+      "mailgunDomain": "",
       "contactOwnerEmail": "gonzrock12@gmail.com"
     },
     {
