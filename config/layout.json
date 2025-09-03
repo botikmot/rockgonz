@@ -169,9 +169,6 @@
       ],
       "variant": "default",
       "bgColor": "#cce5f5",
-      "mailgunApiKey": "",
-      "mailgunDomain": "",
-      "contactOwnerEmail": "gonzrock12@gmail.com"
     },
     {
       "id": "footer",
